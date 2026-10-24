@@ -1,0 +1,13 @@
+{
+  "source_json": "/Users/qiqi/Desktop/State Estimation/MISG_Paper_Code/data/balanced_full_factorial_results.json",
+  "source_sha256": "b6a60065031a4d481f9932cbc65c536d3428bd53d4295ace64b358b1c8a07e9c",
+  "analysis_type": "balanced_full_factorial_gamma_tuning",
+  "n_train": 201,
+  "n_val": 102,
+  "n_test": 201,
+  "n_train_traj": 1,
+  "n_eval_traj": 2,
+  "cell_count": 30,
+  "reuse_old_cells": false,
+  "test_usage": "confirmation_only"
+}

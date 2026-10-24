@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite this repository and the accompanying manuscript when its publication details are available."
+type: software
+title: "Code for Effects of Innovation Length and Forgetting Factor on Multi-Innovation Stochastic Gradient Identification for Delayed State Space Systems"
+authors:
+  - family-names: Chen
+    given-names: Dingqi

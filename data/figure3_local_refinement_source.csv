@@ -1,0 +1,8 @@
+lambda,p,gamma_star,train_systems,validation_systems,test_systems,validation_median_risk,test_median_risk,test_usage,provenance
+0.9,5,0.5,201,102,201,0.009138881216835803,0.021810348358675125,confirmation_only,computed_with_201_balanced_training_systems
+0.925,5,0.6,201,102,201,0.008770860429329438,0.022098562818008455,confirmation_only,computed_with_201_balanced_training_systems
+0.95,5,1.0,201,102,201,0.008099247066157294,0.022736091956900767,confirmation_only,computed_with_201_balanced_training_systems
+0.99,5,3.5,201,102,201,0.015061539831831929,0.02253801943786185,confirmation_only,computed_with_201_balanced_training_systems
+0.995,5,3.0,201,102,201,0.028873264306874785,0.03548187617290713,confirmation_only,computed_with_201_balanced_training_systems
+0.999,5,3.5,201,102,201,0.0618151470273198,0.07356803203181472,confirmation_only,computed_with_201_balanced_training_systems
+1.0,5,3.5,201,102,201,0.10107125254945956,0.11406623205271892,confirmation_only,computed_with_201_balanced_training_systems
